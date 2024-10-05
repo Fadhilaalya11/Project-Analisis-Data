@@ -21,8 +21,8 @@ st.header("Data Wrangling")
 st.subheader("Gathering Data")
 
 # Mengatur path file
-days_path = "C:/Users/fadhi/OneDrive - Telkom University/Dicoding/ProyekAnalisisData/day.csv"
-hours_path = "C:/Users/fadhi/OneDrive - Telkom University/Dicoding/ProyekAnalisisData/hour.csv"
+days_path = "day.csv"
+hours_path = "hour.csv"
 
 # Membaca data dari file CSV
 days_df = pd.read_csv(days_path)
