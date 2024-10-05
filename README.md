@@ -25,7 +25,7 @@ Salin kode
 streamlit run app.py
 Gantilah app.py dengan nama berkas Python Anda jika berbeda.
 
-Setelah menjalankan perintah di atas, Streamlit akan memberikan URL, biasanya di http://localhost:8501. Anda dapat membuka URL tersebut di browser untuk melihat dashboard.
+Setelah menjalankan perintah di atas, Streamlit akan memberikan URL, biasanya di(https://jbr6bjnqwmzabvqfkfn3nf.streamlit.app/). Anda dapat membuka URL tersebut di browser untuk melihat dashboard.
 
 Kontak
 Nama: Fadhila Alya Syahfahlevi
