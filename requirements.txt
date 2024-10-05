@@ -1,5 +1,6 @@
 #Library yang digunakan 
 
+setuptools>=58.0
 streamlit==1.39.0
 pandas==2.2.2
 matplotlib==3.8.4
